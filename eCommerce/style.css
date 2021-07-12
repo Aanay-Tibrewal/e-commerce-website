@@ -1,0 +1,24 @@
+
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:black;
+}
+
+th{
+    font-size: 30px;
+}
+
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 30px;
+}
+
+.start{
+    flex-wrap: wrap;
+}
